@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=0EF7FF&center=true&vCenter=true&width=900&lines=Dan+Payne;Systems+Admin+%26+iOS+Engineer;Azure+Solutions+Architect+Expert;Automation+%7C+Cloud+%7C+DevOps+%7C+iOS" />
 </p>
 
+<!-- <p align="center">
+  <a href="https://danpayne.co/static/media/DPayneResumeWebsite.a35c4ce8638065b93154.pdf" target="_blank"><b>Download Resume</b></a> • <b>Let's Chat</b> • <b>Scroll Down</b>
+</p> -->
+<p align="center">
+  <a href="https://danpayne.co" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit-My%20Website-0EF7FF?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+</p>
+
+
 ---
 
 ## 👨‍🚀 About
