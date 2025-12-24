@@ -23,9 +23,12 @@ I am currently a **Lead Systems Administrator** with extensive experience managi
 
 I hold the following Microsoft certifications:
 
-- 🛡️ **Microsoft Certified: Azure Solutions Architect Expert (AZ-305)**
-- ⚙️ **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-- 💠 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+<img src="305badge.png" alt="Azure Solutions Architect Expert" height="120" />**Microsoft Certified: Azure Solutions Architect Expert (AZ-305)** <br>
+<img src="104badge.png" alt="Azure Administrator Associate" height="120" />**Microsoft Certified: Azure Administrator Associate (AZ-104)**<br>
+<img src="900badge.png" alt="Azure Fundamentals" height="120" />**Microsoft Certified: Azure Fundamentals (AZ-900)**<br>
+
+
+
 
 These certifications, combined with hands-on experience in real-world enterprise environments, position me as a **Microsoft Certified Expert** capable of delivering solutions that align technology with business goals.
 
