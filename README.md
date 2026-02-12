@@ -1,7 +1,7 @@
 <!-- GitHub Profile README — Dan Payne -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=0EF7FF&center=true&vCenter=true&width=900&lines=Dan+Payne;Cloud+Engineer+%7C+Azure+Solutions+Architect+Expert;Infrastructure+as+Code+%7C+Identity+Automation+%7C+Full-Stack+Tooling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=0EF7FF&center=true&vCenter=true&width=900&lines=Dan+Payne;Cloud+Engineer+%7C+Azure+Solutions+Architect+Expert;IaC+%7C+Identity+Automation+%7C+Full-Stack+Tooling" />
 </p>
 
 <p align="center">
