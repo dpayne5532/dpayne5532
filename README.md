@@ -1,7 +1,6 @@
 <!-- GitHub Profile README — Dan Payne -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=0EF7FF&center=true&vCenter=true&width=900&lines=Dan+Payne;Cloud+Engineer+%7C+Azure+Solutions+Architect+Expert;IaC+%7C+Identity+Automation+%7C+Full-Stack+Tooling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=0EF7FF&center=true&vCenter=true&width=900&lines=Dan+Payne;Lead+DevSecOps+Engineer+%7C+Azure+Solutions+Architect;IaC+%7C+Identity+Automation+%7C+Full-Stack+Tooling" />
 </p>
 
 <p align="center">
@@ -13,7 +12,9 @@
 
 ## About
 
-I'm a **Cloud Engineer** and **Azure Solutions Architect Expert** based in Colorado. I took over a manual Azure environment with no automation and turned it into a repeatable, observable, code-driven platform — writing the IaC, the CI/CD pipelines, the identity automation, and the internal tooling from scratch.
+I'm a **Lead DevSecOps Engineer** and **Azure Solutions Architect Expert** based in Colorado, currently working in the defense industry.
+
+I came up running Azure environments where I built the IaC, the CI/CD pipelines, the identity automation, and the internal tooling from scratch, turning manual portal-driven operations into repeatable, observable, code-driven platforms.
 
 Most of my work lives at the intersection of **infrastructure, identity, and developer tooling**: automating employee lifecycle events through Azure Functions and Microsoft Graph, enforcing governance with Entra ID and Conditional Access, and building internal apps that replace expensive SaaS seats or manual processes.
 
