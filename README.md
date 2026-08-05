@@ -18,8 +18,6 @@ I came up running Azure environments where I built the IaC, the CI/CD pipelines,
 
 Most of my work lives at the intersection of **infrastructure, identity, and developer tooling**: automating employee lifecycle events through Azure Functions and Microsoft Graph, enforcing governance with Entra ID and Conditional Access, and building internal apps that replace expensive SaaS seats or manual processes.
 
-I write a lot of **Node.js and PowerShell** in production, build frontends in **React**, and tinker with **SwiftUI** on the side.
-
 ---
 
 ## Certifications
